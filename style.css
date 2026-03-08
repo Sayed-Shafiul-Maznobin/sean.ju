@@ -1,0 +1,54 @@
+body{
+
+    margin:0;
+    font-family:Arial;
+
+    background-color:#ffffff;
+}
+
+header{
+
+    background-color:#03416d;
+    color:white;
+
+    text-align:center;
+
+    padding:25px;
+}
+
+.container{
+
+    width:90%;
+    max-width:500px;
+
+    margin:auto;
+
+    padding-top:30px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.btn{
+
+    background-color:#1173b8;
+    color:white;
+
+    padding:18px;
+
+    margin:15px 0;
+
+    text-align:center;
+
+    font-size:18px;
+
+    border-radius:8px;
+
+    transition:0.3s;
+}
+
+.btn:hover{
+
+    background-color:#03416d;
+}
